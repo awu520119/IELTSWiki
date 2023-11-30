@@ -216,7 +216,7 @@ Error message and password prompt
 {"created":"20231130094227013","title":"$:/SiteTitle","text":"思考笔记","modified":"20231130094228510"},
 {"title":"$:/state/http-requests","text":"0"},
 {"created":"20231130092831528","title":"$:/state/showeditpreview","text":"yes","modified":"20231130092848632"},
-{"created":"20231130094405224","title":"$:/state/sidebar","text":"no","modified":"20231130094405224"},
+{"created":"20231130094405224","title":"$:/state/sidebar","text":"yes","modified":"20231130094504935"},
 {"created":"20231130092641343","title":"$:/state/tab--1963855381","text":"$:/core/ui/ControlPanel/Palette","modified":"20231130092641343"},
 {"created":"20231130092640406","title":"$:/state/tab-1749438307","text":"$:/core/ui/ControlPanel/Saving","modified":"20231130094302435"},
 {"created":"20231130094147247","title":"$:/state/tab-2065006209","text":"$:/core/ui/ControlPanel/Saving/GitHub","modified":"20231130094150654"},
